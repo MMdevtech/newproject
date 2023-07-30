@@ -1,0 +1,2 @@
+# newproject
+just a pratic
